@@ -239,4 +239,4 @@ metadata:
     app.kubernetes.io/part-of: doris-operator
     app.kubernetes.io/managed-by: kustomize
   name: controller-manager
-  namespace: doris
+  namespace: doris-cluster
